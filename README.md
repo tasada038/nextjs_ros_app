@@ -42,7 +42,7 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-![nextjs_ros_app](./img/nexjs_ros_app.png)
+![nextjs_ros_app](./img/nextjs_ros_app.png)
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
@@ -50,7 +50,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## develop
 
-Open [http://localhost:3000/api/ros](http://localhost:3000) with your browser to see the API result.
+Open [http://localhost:3000/api/ros](http://localhost:3000) with your browser to see the API result using Hono as routing.
 
 
 ## Publish and Subscribe Topics
@@ -58,3 +58,7 @@ The topics of the nextjs_ros_app are as follows.
 
 Subscribe data
 - /color/image_raw/compressed
+
+
+## License
+The source code is released under a [MIT license](LICENSE).
